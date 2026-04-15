@@ -1,0 +1,1 @@
+# Star-Delta-Motor-Starter-Reduced-Starting-Current
