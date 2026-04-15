@@ -82,7 +82,7 @@ To:
 
 ## 🎥 Demo Video
 
-![video](./wideo.mp4)
+![video](./video.mp4)
 
 ---
 
