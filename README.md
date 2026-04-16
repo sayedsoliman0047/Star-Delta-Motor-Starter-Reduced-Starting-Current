@@ -1,6 +1,6 @@
 # Star-Delta-Motor-Starter-Reduced-Starting-Current
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a **Star-Delta motor starter** using **classic control (relay logic)** to reduce the high starting current of an induction motor.
 
@@ -8,7 +8,7 @@ The system automatically switches from **Star (Y)** to **Delta (Δ)** after a ti
 
 ---
 
-## ⚙️ Objective
+##  Objective
 
 To:
 
@@ -18,7 +18,7 @@ To:
 
 ---
 
-## 🔧 Components Used
+##  Components Used
 
 * Main Contactor (KM)
 * Star Contactor (KY)
@@ -30,7 +30,7 @@ To:
 
 ---
 
-## ⚡ Working Principle
+##  Working Principle
 
 ### 1. Start Mode (Star Connection)
 
@@ -56,7 +56,7 @@ To:
 
 ---
 
-## 🔐 Safety Interlocking
+##  Safety Interlocking
 
 * KY and KΔ must **NEVER be ON at the same time**
 * Electrical interlocking is used:
@@ -66,7 +66,7 @@ To:
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 * Wrong interlocking may cause **short circuit**
 * Timer must ensure delay between switching
@@ -74,19 +74,19 @@ To:
 
 ---
 
-## 📷 Control & Power Diagram
+##  Control & Power Diagram
 
 ![Solution](./solution.jpg)
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 ![video](./video.mp4)
 
 ---
 
-## 🚀 How to Operate
+##  How to Operate
 
 1. Power ON the system
 2. Press Start → Motor starts in Star
@@ -95,7 +95,7 @@ To:
 
 ---
 
-## 🧠 Key Concepts
+##  Key Concepts
 
 * Reduced starting current
 * Star/Delta transformation
